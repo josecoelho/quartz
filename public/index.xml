@@ -6,6 +6,12 @@
       <description>Last 10 notes on José Coelho</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Building this website</title>
+    <link>https://jose.co.nz/Software-Engineer/Building-this-website</link>
+    <guid>https://jose.co.nz/Software-Engineer/Building-this-website</guid>
+    <description>I use Obsidian to take notes, and I’ve been taking notes for quite a while. I thought on sharing more of my projects and decided to grab some of my notes and publish it.</description>
+    <pubDate>Mon, 02 Dec 2024 10:13:09 GMT</pubDate>
+  </item><item>
     <title>Make it work, then make it better</title>
     <link>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</link>
     <guid>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</guid>
@@ -36,6 +42,12 @@
     <description>Let’s start with some Principles behind the Agile Manifesto: Our highest priority is to satisfy the customer through early and continuous delivery of valuable software ...</description>
     <pubDate>Wed, 07 Aug 2024 20:21:32 GMT</pubDate>
   </item><item>
+    <title>Write it down to solve it</title>
+    <link>https://jose.co.nz/Zettelkasten/Write-it-down-to-solve-it</link>
+    <guid>https://jose.co.nz/Zettelkasten/Write-it-down-to-solve-it</guid>
+    <description>Write it down to organise your ideas When I write something down, it is easier to organize my mind and make things clear. I tend to run in circles, until I start writing it down.</description>
+    <pubDate>Thu, 01 Aug 2024 21:32:59 GMT</pubDate>
+  </item><item>
     <title>Approach with curiosity</title>
     <link>https://jose.co.nz/Software-Engineer/Approach-with-curiosity</link>
     <guid>https://jose.co.nz/Software-Engineer/Approach-with-curiosity</guid>
@@ -53,18 +65,6 @@
     <guid>https://jose.co.nz/Books/Atomic-Habits</guid>
     <description>I’ve listen to it using Audible. Liked it, but didn’t put much in practice… 😬 Well, if I have to choose, these are the main bits that I tend to remind myself New habits must be easy, like leave your running clothes ready or try 2 minutes of exercise I did try multiple times, but still missing more commitment.</description>
     <pubDate>Tue, 14 Jun 2022 23:24:53 GMT</pubDate>
-  </item><item>
-    <title>Make bad habits harder</title>
-    <link>https://jose.co.nz/Zettelkasten/Make-bad-habits-harder</link>
-    <guid>https://jose.co.nz/Zettelkasten/Make-bad-habits-harder</guid>
-    <description>If you want to change/reduce a bad habit, make it a bit harder. For example, if you want to reduce the amount of time watching TV, remove the TV from the room, or at least, remove the batteries of the controller.</description>
-    <pubDate>Tue, 14 Jun 2022 23:23:01 GMT</pubDate>
-  </item><item>
-    <title>A bad decision is better than no decision</title>
-    <link>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</link>
-    <guid>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</guid>
-    <description>Part of Tips for Software Engineers When stuck thinking about a problem just do stuff. Felipe Schnack once told me “A bad decision is better than no decision”.</description>
-    <pubDate>Fri, 10 Jun 2022 00:54:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
