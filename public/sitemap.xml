@@ -1,5 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://jose.co.nz/Books/Atomic-Habits</loc>
+    <loc>https://jose.co.nz/Contexts/Books/Atomic-Habits</loc>
     <lastmod>2022-06-14T23:24:53.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Contexts/Camping/My-camping-kitchen</loc>
@@ -59,6 +59,9 @@
     <loc>https://jose.co.nz/Zettelkasten/Make-bad-habits-harder</loc>
     <lastmod>2022-06-14T23:23:01.000Z</lastmod>
   </url><url>
+    <loc>https://jose.co.nz/Zettelkasten/My-call-to-keep-the-internet-public</loc>
+    <lastmod>2024-12-02T20:08:54.843Z</lastmod>
+  </url><url>
     <loc>https://jose.co.nz/Zettelkasten/Notes-in-only-one-place</loc>
     <lastmod>2022-05-05T02:14:56.000Z</lastmod>
   </url><url>
@@ -67,7 +70,4 @@
   </url><url>
     <loc>https://jose.co.nz/</loc>
     <lastmod>2024-11-25T08:18:07.355Z</lastmod>
-  </url><url>
-    <loc>https://jose.co.nz/my-call-to-keep-the-internet-public</loc>
-    <lastmod>2024-12-02T20:08:54.843Z</lastmod>
   </url></urlset>
