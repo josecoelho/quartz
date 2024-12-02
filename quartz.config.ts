@@ -17,7 +17,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jose.co.nz",
-    ignorePatterns: ["private", "templates", ".obsidian", "!(PublicMedia)**/!(*.md)", "!(*.md)"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "Resources",
+      "!(PublicMedia)**/!(*.md)",
+      "!(*.md)",
+    ],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
