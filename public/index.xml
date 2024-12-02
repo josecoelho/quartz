@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>José Coelho</title>
+      <link>https://jose.co.nz</link>
+      <description>Last 10 notes on José Coelho</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Make it work, then make it better</title>
+    <link>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</link>
+    <guid>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</guid>
+    <description>To avoid Paralysis Analysis, what helps me move along is do it dirty first, make it work, learn as much as you can at this stage, then commit to an idea ...</description>
+    <pubDate>Mon, 25 Nov 2024 08:20:27 GMT</pubDate>
+  </item><item>
+    <title>José Coelho</title>
+    <link>https://jose.co.nz/</link>
+    <guid>https://jose.co.nz/</guid>
+    <description>Hello I’m José Coelho, I’m a father, husband and muy passion is thinkering and learning. I’m currently working as a Principal Software Engineer with the Paloma Group.</description>
+    <pubDate>Mon, 25 Nov 2024 08:18:07 GMT</pubDate>
+  </item><item>
+    <title>When stuck, ask for help ASAP</title>
+    <link>https://jose.co.nz/Software-Engineer/When-stuck,-ask-for-help-ASAP</link>
+    <guid>https://jose.co.nz/Software-Engineer/When-stuck,-ask-for-help-ASAP</guid>
+    <description>When stuck, ask for help ASAP If you get stuck in to a problem, ask for help as soon as possible. As a rule of thumb, 30 minutes is good, more than 1 hour is probably to long.</description>
+    <pubDate>Sun, 13 Oct 2024 21:21:32 GMT</pubDate>
+  </item><item>
+    <title>Your method is telling a story</title>
+    <link>https://jose.co.nz/Software-Engineer/Your-method-is-telling-a-story</link>
+    <guid>https://jose.co.nz/Software-Engineer/Your-method-is-telling-a-story</guid>
+    <description>Write your methods in way that is easy to understand what is their purpose, and what you are trying to achieve with that. add examples This is part of Tips for Software Engineers.</description>
+    <pubDate>Wed, 07 Aug 2024 20:21:32 GMT</pubDate>
+  </item><item>
+    <title>Vertical Slicing</title>
+    <link>https://jose.co.nz/Software-Engineer/Vertical-Slicing</link>
+    <guid>https://jose.co.nz/Software-Engineer/Vertical-Slicing</guid>
+    <description>Let’s start with some Principles behind the Agile Manifesto: Our highest priority is to satisfy the customer through early and continuous delivery of valuable software ...</description>
+    <pubDate>Wed, 07 Aug 2024 20:21:32 GMT</pubDate>
+  </item><item>
+    <title>Approach with curiosity</title>
+    <link>https://jose.co.nz/Software-Engineer/Approach-with-curiosity</link>
+    <guid>https://jose.co.nz/Software-Engineer/Approach-with-curiosity</guid>
+    <description>When someone does something in a way that you do not agree, approach with curiosity, you may be able to learn something today! ask why things are done in certain way 3 questions, then ...</description>
+    <pubDate>Sun, 11 Jun 2023 23:23:40 GMT</pubDate>
+  </item><item>
+    <title>Build trust by communicating often</title>
+    <link>https://jose.co.nz/Contexts/Paloma/Build-trust-by-communicating-often</link>
+    <guid>https://jose.co.nz/Contexts/Paloma/Build-trust-by-communicating-often</guid>
+    <description>prensentation The problem: You are craving for a bagel from the airport and decide to hire someone to bring that to you. The solution: Hire a driver to deliver this package We hire someone The driver comes, they charge $100 per hour and estimates that it will take 1 hour to pick this package up, but it could take longer.</description>
+    <pubDate>Thu, 09 Feb 2023 03:02:25 GMT</pubDate>
+  </item><item>
+    <title>Atomic Habits</title>
+    <link>https://jose.co.nz/Books/Atomic-Habits</link>
+    <guid>https://jose.co.nz/Books/Atomic-Habits</guid>
+    <description>Ouvi no Audible e gostei bastante, não botei muito em prática Coisas principais Novos hábitos devem ser fáceis, deixar roupa de correr pronta, fazer 2 minutos de exercício Make bad ...</description>
+    <pubDate>Tue, 14 Jun 2022 23:24:53 GMT</pubDate>
+  </item><item>
+    <title>Make bad habits harder</title>
+    <link>https://jose.co.nz/Zettelkasten/Make-bad-habits-harder</link>
+    <guid>https://jose.co.nz/Zettelkasten/Make-bad-habits-harder</guid>
+    <description>If you want to change/reduce a bad habit, make it a bit harder. For example, if you want to reduce the amount of time watching TV, remove the TV from the room, or at least, remove the batteries of the controller.</description>
+    <pubDate>Tue, 14 Jun 2022 23:23:01 GMT</pubDate>
+  </item><item>
+    <title>A bad decision is better than no decision</title>
+    <link>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</link>
+    <guid>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</guid>
+    <description>Part of Tips for Software Engineers When stuck thinking about a problem just do stuff. Felipe Schnack once told me “A bad decision is better than no decision”.</description>
+    <pubDate>Fri, 10 Jun 2022 00:54:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
