@@ -6,6 +6,24 @@
       <description>Last 10 notes on José Coelho</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>VW Beatle 1977</title>
+    <link>https://jose.co.nz/Contexts/Maintenance/VW-Beatle-1977</link>
+    <guid>https://jose.co.nz/Contexts/Maintenance/VW-Beatle-1977</guid>
+    <description>My first car! I kinda miss it. That’s the car that my wife learned how to drive. And my first contact with mechanical breakdowns and understanding how things work.</description>
+    <pubDate>Mon, 02 Dec 2024 23:58:30 GMT</pubDate>
+  </item><item>
+    <title>Where do I take my cars</title>
+    <link>https://jose.co.nz/Contexts/Maintenance/Where-do-I-take-my-cars</link>
+    <guid>https://jose.co.nz/Contexts/Maintenance/Where-do-I-take-my-cars</guid>
+    <description>I’ve been taking my cars to Plimmerton Mortos for years. They are friendly, reliable and helpful. It changed ownership recently. For the better! Frank, Logan, and Roger are awesome lads and eager to help.</description>
+    <pubDate>Mon, 02 Dec 2024 23:34:35 GMT</pubDate>
+  </item><item>
+    <title>Changing Mahindra wheel bearings</title>
+    <link>https://jose.co.nz/Contexts/DIY/Changing-Mahindra-wheel-bearings</link>
+    <guid>https://jose.co.nz/Contexts/DIY/Changing-Mahindra-wheel-bearings</guid>
+    <description>I had to change both wheel bearings on the front of my Mahindra Pik Up as part of it’s 128k Service and WOF. Outer Wheel bearing - Part number: LM501349/10 - Specs Inner Wheel bearing - Part numbeR: 25590/20 - Specs My cost for the set was around 115.00 NZD against 240.00 from Mahindra.</description>
+    <pubDate>Mon, 02 Dec 2024 23:19:09 GMT</pubDate>
+  </item><item>
     <title>HotWheels Firepit - My first welding project</title>
     <link>https://jose.co.nz/Contexts/DIY/HotWheels-Firepit---My-first-welding-project</link>
     <guid>https://jose.co.nz/Contexts/DIY/HotWheels-Firepit---My-first-welding-project</guid>
@@ -18,9 +36,9 @@
     <description>I found it easy to setup, easy to pack down and really comfortable. It works really well for me. I’ve slept on it with my 6 years old kid with no problems as well.</description>
     <pubDate>Mon, 02 Dec 2024 21:39:37 GMT</pubDate>
   </item><item>
-    <title>Install winch behind original bumper</title>
-    <link>https://jose.co.nz/Projects/Done/Install-winch-behind-original-bumper</link>
-    <guid>https://jose.co.nz/Projects/Done/Install-winch-behind-original-bumper</guid>
+    <title>Install winch behind Mahindra original bumper</title>
+    <link>https://jose.co.nz/Contexts/DIY/Install-winch-behind-Mahindra-original-bumper</link>
+    <guid>https://jose.co.nz/Contexts/DIY/Install-winch-behind-Mahindra-original-bumper</guid>
     <description>Using scrap metal from a scrapyard and some welding. I’ve built a custom winch cradle and installed a winch in my Mahindra. Just some pictures for now… [Open Album](photoprism.jose.co.nz/library/albums/asnvx60luaz7kbo6/view).</description>
     <pubDate>Mon, 02 Dec 2024 20:56:45 GMT</pubDate>
   </item><item>
@@ -36,35 +54,17 @@
     <description> TLDR: What I’m noticing is that it is getting harder and harder to get answers by searching in the internet. Let’s choose public groups and websites over closed groups behind a username and password My first car was a VW Beatle 1977.</description>
     <pubDate>Mon, 02 Dec 2024 20:08:54 GMT</pubDate>
   </item><item>
+    <title>My NAS setup using UNRAID</title>
+    <link>https://jose.co.nz/My-NAS-setup-using-UNRAID</link>
+    <guid>https://jose.co.nz/My-NAS-setup-using-UNRAID</guid>
+    <description>I’ve been using unraid.net/ on a second hand desktop as my personal NAS for a couple of years and I’ve been enjoying the experience so far. Some things that I have running (I might write about them in the future): Photoprism To keep all our personal photos Nextcloud using less and less, but still using it to sync some photo uploads form my wife’s phone Syncthing using to sync photos from my phone and to sync these notes between my server, phone and computer Nginx Proxy Manager to map my services to domains and manage let’s encrypt Cloudflared to access my server securely using cloudflare tunnel .</description>
+    <pubDate>Mon, 02 Dec 2024 10:20:18 GMT</pubDate>
+  </item><item>
     <title>Building this website</title>
     <link>https://jose.co.nz/Software-Engineer/Building-this-website</link>
     <guid>https://jose.co.nz/Software-Engineer/Building-this-website</guid>
     <description>I use Obsidian to take notes, and I’ve been taking notes for quite a while. I thought on sharing more of my projects and decided to grab some of my notes and publish it.</description>
     <pubDate>Mon, 02 Dec 2024 10:13:09 GMT</pubDate>
-  </item><item>
-    <title>Make it work, then make it better</title>
-    <link>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</link>
-    <guid>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</guid>
-    <description>To avoid Paralysis Analysis, what helps me move along is do it dirty first, make it work, learn as much as you can at this stage, then commit to an idea ...</description>
-    <pubDate>Mon, 25 Nov 2024 08:20:27 GMT</pubDate>
-  </item><item>
-    <title>José Coelho</title>
-    <link>https://jose.co.nz/</link>
-    <guid>https://jose.co.nz/</guid>
-    <description>Hello I’m José Coelho, I’m a father, husband and my passion is tinkering and learning. My professional mission is to bring joy to the ones around me while delivering value.</description>
-    <pubDate>Mon, 25 Nov 2024 08:18:07 GMT</pubDate>
-  </item><item>
-    <title>Where to  find spare parts Mahindra Pik Up in New Zealand</title>
-    <link>https://jose.co.nz/Contexts/Maintenance/Where-to--find-spare-parts-Mahindra-Pik-Up-in-New-Zealand</link>
-    <guid>https://jose.co.nz/Contexts/Maintenance/Where-to--find-spare-parts-Mahindra-Pik-Up-in-New-Zealand</guid>
-    <description>Sourcing parts I live in New Zealand, and Mahindra is not really popular down here. There are no parts on our main sources like Repco, Supercheap Auto, or BNT.</description>
-    <pubDate>Thu, 14 Nov 2024 20:19:38 GMT</pubDate>
-  </item><item>
-    <title>Mahindra Pik Up 2019</title>
-    <link>https://jose.co.nz/Contexts/Maintenance/Mahindra-Pik-Up-2019</link>
-    <guid>https://jose.co.nz/Contexts/Maintenance/Mahindra-Pik-Up-2019</guid>
-    <description>Dec/2023 I fell in love with a Mahindra Pik Up and bought it. Here I’m going to share some of the things that I did on it. Her name is Mariana, given by my wife Vanessa.</description>
-    <pubDate>Tue, 22 Oct 2024 00:55:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
