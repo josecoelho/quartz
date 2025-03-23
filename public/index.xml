@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>José Coelho</title>
+      <link>https://jose.co.nz</link>
+      <description>Last 10 notes on José Coelho</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Fail fast to learn fast</title>
+    <link>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</link>
+    <guid>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</guid>
+    <description>Just try it out, make it work, or don’t. Fail as fast as you can, and change directions as necessary. Embrace the failure as a great opportunity to learn.</description>
+    <pubDate>Wed, 08 Jan 2025 08:50:00 GMT</pubDate>
+  </item><item>
+    <title>Mahindra - Storage Box</title>
+    <link>https://jose.co.nz/Camping/Mahindra---Storage-Box</link>
+    <guid>https://jose.co.nz/Camping/Mahindra---Storage-Box</guid>
+    <description>When I bought Mariana, it came with two tools boxes and a dog box. Our first camping trip with her was using this setup. And It was not bad. The tool boxes made it all easy to organise.</description>
+    <pubDate>Mon, 16 Dec 2024 09:03:00 GMT</pubDate>
+  </item><item>
+    <title>Mahindra Service Workshop Manuals</title>
+    <link>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</link>
+    <guid>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</guid>
+    <description>Scorpio 2006 Pik Up Service Manual Scorpio - Gateway CRDe .</description>
+    <pubDate>Sat, 07 Dec 2024 15:24:00 GMT</pubDate>
+  </item><item>
+    <title>Mahindra - Replacing Auto to Manual Locking Hubs</title>
+    <link>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</link>
+    <guid>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</guid>
+    <description> TLDR: You can use Nissan Safari/Patrol GQ Manual locking hubs on Mahindra. It’s easy to swap. Why? After Changing Mahindra wheel bearings, brake rotors and brake pads and tie rod, we went off-roading to Red Rocks, and while going up the Devil’s Gate we heard a big bang and the 4WD wouldn’t work anymore.</description>
+    <pubDate>Fri, 06 Dec 2024 14:13:00 GMT</pubDate>
+  </item><item>
+    <title>Fixing snapped CV Axle - Mahindra</title>
+    <link>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</link>
+    <guid>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</guid>
+    <description>After Mahindra - Replacing Auto to Manual Locking Hubs, I realised the problem was a bit worse. The CV axle actually popped out from the diff. NO! Even worse, it actually snapped inside of the diff! Diagnosing I’ve got some tips from Plimmerton Motors.</description>
+    <pubDate>Fri, 06 Dec 2024 12:05:00 GMT</pubDate>
+  </item><item>
+    <title>You write code for others, not for yourself</title>
+    <link>https://jose.co.nz/Software-Engineer/You-write-code-for-others,-not-for-yourself</link>
+    <guid>https://jose.co.nz/Software-Engineer/You-write-code-for-others,-not-for-yourself</guid>
+    <description>You are writing your code for others to read, understand and make sense of it. Even if you are working by yourself in a cave, yourself 6 months for now is not the same as yourself form today.</description>
+    <pubDate>Thu, 05 Dec 2024 12:42:04 GMT</pubDate>
+  </item><item>
+    <title>Take the context and constraints into consideration</title>
+    <link>https://jose.co.nz/Software-Engineer/Take-the-context-and-constraints-into-consideration</link>
+    <guid>https://jose.co.nz/Software-Engineer/Take-the-context-and-constraints-into-consideration</guid>
+    <description>Rules are for guidance, not to take religiously. Take your current context and constraints into consideration when building anything.</description>
+    <pubDate>Thu, 05 Dec 2024 09:14:08 GMT</pubDate>
+  </item><item>
+    <title>Coding for change</title>
+    <link>https://jose.co.nz/Software-Engineer/Coding-for-change</link>
+    <guid>https://jose.co.nz/Software-Engineer/Coding-for-change</guid>
+    <description>Don’t lie to yourself, your code is going to change, and you need to code expecting it to change. Make it easier to change. Remember that A bad abstraction is worse than no abstraction.</description>
+    <pubDate>Thu, 05 Dec 2024 09:11:52 GMT</pubDate>
+  </item><item>
+    <title>Build on top of a stable base</title>
+    <link>https://jose.co.nz/Zettelkasten/Build-on-top-of-a-stable-base</link>
+    <guid>https://jose.co.nz/Zettelkasten/Build-on-top-of-a-stable-base</guid>
+    <description>Building something? Check your base, it needs to be stable before you add something else at the top of it. Don’t cut corners, everything might fall apart!.</description>
+    <pubDate>Thu, 05 Dec 2024 09:06:39 GMT</pubDate>
+  </item><item>
+    <title>YAGNI</title>
+    <link>https://jose.co.nz/Software-Engineer/YAGNI</link>
+    <guid>https://jose.co.nz/Software-Engineer/YAGNI</guid>
+    <description>Repeat after me: You aren’t gonna need it “Always implement things when you actually need them, never when you just foresee that you “will” need them.” John Carmack I will just throw ...</description>
+    <pubDate>Tue, 03 Dec 2024 21:05:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
