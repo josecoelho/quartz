@@ -46,4 +46,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "josecoelho/quartz",
+        repoId: "R_kgDONXfoTg",
+        category: "Announcements",
+        categoryId: "DIC_kwDONXfoTs4Ck-Mq",
+      },
+    }),
+  ],
 }
