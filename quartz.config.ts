@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { customOgImage } from "./quartz/util/customOg"
 
 /**
  * Quartz 4.0 Configuration
@@ -8,8 +9,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "José Coelho",
-    pageTitleSuffix: " - Software Engineer",
+    pageTitle: "Dev Outside",
+    pageTitleSuffix: " - José Coelho",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -27,7 +28,13 @@ const config: QuartzConfig = {
       "!(*.md)",
     ],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: {
+      colorScheme: "darkMode",
+      width: 950,
+      height: 630,
+      excludeRoot: false,
+      imageStructure: customOgImage,
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
