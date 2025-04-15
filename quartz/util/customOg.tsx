@@ -4,7 +4,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { UserOpts } from "./og"
 
 export const customOgImage = (
-  _cfg: GlobalConfiguration,
+  cfg: GlobalConfiguration,
   _userOpts: UserOpts,
   title: string,
   _description: string,
@@ -24,9 +24,7 @@ export const customOgImage = (
   const titleSecondPart = hasDash ? ` -${titleParts[titleParts.length - 1]}` : ''
 
   // Set up background image path
-  // const bgImagePath = `https://${cfg.baseUrl}/static/og-image.jpg`
-  // PUBLIC image for testing
-  const bgImagePath = 'https://i.postimg.cc/sxQMvRkc/og-image.jpg'
+  const bgImagePath = `https://${cfg.baseUrl}/static/og-image.jpg`
 
   return (
     <div
