@@ -1,3 +1,138 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Subtle styling inspired by pixel art sunset with Tokyo Night subtlety
+
+// Very subtle background texture for dark mode (like pixel noise)
+body.dark {
+  background-color: var(--light);
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFKSURBVGhD7ZixTcNAFECvCxJIlCByHQY4FgCJhg4WoGEGJliAgg0QNRsgYQoaUkIOiWLLd/4n5d//j5L7klN8d/l+0qXzKWpNQ1BIFBQSBYVEQSFReJYQ8zk5DQY5GY3SpXr4zfF42H57Y9XrdYr+vp8vDmFMRKiQh8eFJfH+RJZ0u56FeKsNXxOh6YdEhIrxMqLHnwgqwuuIUEFtCBFRsRA1OFB5eU7qcmkbFUfz2TQZjpLm6Uk9TJbLlU1qbzN+L5FS7HabLFerZL+/Pj8dzZJup0inP7EZP3hCzJmNHW4dET1DpyWEipGlJOO4P7J9LVy90jJei1aECfJWtDKoGG9FK4OK8VK0MqgYL0UrYyJUkJei/cNEqCjnontHBI3qouiKqkebBueiPR7u0oFrHuZ+mqvovSMNQyFRUEgUFBIFhcQgSX4BH9ZrAJsOepoAAAAASUVORK5CYII=");
+  background-repeat: repeat;
+  background-size: 50px 50px;
+  background-blend-mode: overlay;
+  background-attachment: fixed;
+  opacity: 0.97;
+}
+
+// Code blocks with terminal styling
+pre {
+  border-radius: 4px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  
+  code {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.9rem;
+  }
+}
+
+// Subtle pixel-inspired border for images
+img {
+  border: 2px solid var(--lightgray);
+  border-radius: 2px;
+}
+
+// Low-contrast links
+a.internal {
+  text-decoration: none;
+  border-bottom: 1px dotted var(--secondary);
+  background-color: transparent;
+  padding: 0 0.1rem;
+  border-radius: 0;
+  transition: all 0.2s ease;
+  opacity: 0.9;
+  
+  &:hover {
+    background-color: var(--highlight);
+    border-bottom: 1px solid var(--secondary);
+    opacity: 1;
+  }
+}
+
+// Subtle monospace styling for headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Subtle blockquotes with sunset tones
+blockquote {
+  border-left: 2px solid var(--secondary);
+  background-color: rgba(179, 138, 108, 0.03);
+  padding: 0.5rem 1rem;
+  border-radius: 0 2px 2px 0;
+  color: var(--darkgray);
+}
+
+// Custom selection styling
+::selection {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+// Subtle callouts styling
+.callout {
+  border: 1px solid var(--lightgray);
+  border-radius: 2px;
+  background-color: rgba(179, 138, 108, 0.03);
+}
+
+// Low-contrast code styling
+code {
+  color: var(--secondary);
+  background-color: rgba(179, 138, 108, 0.06);
+  border-radius: 2px;
+  font-size: 0.9em;
+  padding: 0.1rem 0.2rem;
+}
+
+// Terminal-like table styling
+table {
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  
+  th {
+    background-color: var(--lightgray);
+    border-bottom: 1px solid var(--gray);
+  }
+}
+
+// Adjust spacing for better readability
+.page article {
+  line-height: 1.6;
+}
+
+// Subtle header styling with pixel inspired underline
+h1, h2 {
+  position: relative;
+  
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(
+      to right, 
+      var(--secondary) 0%, 
+      var(--tertiary) 100%
+    );
+    opacity: 0.4;
+    mask-image: repeating-linear-gradient(
+      to right,
+      black,
+      black 3px,
+      transparent 3px,
+      transparent 6px
+    );
+    -webkit-mask-image: repeating-linear-gradient(
+      to right,
+      black,
+      black 3px,
+      transparent 3px,
+      transparent 6px
+    );
+  }
+}
+

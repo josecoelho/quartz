@@ -32,32 +32,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "JetBrains Mono",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f4f1", // Soft off-white with slight warmth
+          lightgray: "#e8e0d8", // Very subtle light tan
+          gray: "#b5a99c", // Medium muted brown
+          darkgray: "#584c4a", // Muted dark brown
+          dark: "#2e2a2d", // Deep muted brown from mountains
+          secondary: "#b67d62", // Muted sunset orange
+          tertiary: "#c99b7c", // Subtle orange highlight
+          highlight: "rgba(182, 125, 98, 0.08)", // Very subtle orange highlight
+          textHighlight: "#c99b7c44",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1d1b22", // Deep night (similar to Tokyo Night, but warmer)
+          lightgray: "#2c2730", // Slightly warmer than Tokyo Night dark
+          gray: "#57515c", // Muted blue-purple gray
+          darkgray: "#c7bdb4", // Muted light tan
+          dark: "#e4ddd7", // Soft off-white with warmth
+          secondary: "#b38a6c", // Muted golden sunset
+          tertiary: "#85636f", // Muted purple-red from sunset/mountains
+          highlight: "rgba(179, 138, 108, 0.08)", // Very subtle highlight
+          textHighlight: "#b38a6c44",
         },
       },
     },
