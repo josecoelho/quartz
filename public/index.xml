@@ -6,9 +6,9 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>AI usage warning</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/AI-usage-warning</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/AI-usage-warning</guid>
+    <title>AI coding warning</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</guid>
     <description>Enjoy the vibe, but remember, you are still responsible for your contributions. Do no lower your standards. AI tools can help you deliver more, but make sure to keep your standards ALWAYS review the bloody code properly, and double check dependencies.</description>
     <pubDate>Wed, 16 Apr 2025 10:38:00 GMT</pubDate>
   </item><item>
@@ -27,7 +27,7 @@
     <title>Coding with AI aid</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</guid>
-    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI usage warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
+    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI coding warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
     <pubDate>Mon, 14 Apr 2025 09:21:00 GMT</pubDate>
   </item><item>
     <title>Fail fast to learn fast</title>
