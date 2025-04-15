@@ -41,9 +41,6 @@
     <loc>https://jose.co.nz/DIY/Install-winch-behind-Mahindra-original-bumper</loc>
     <lastmod>2024-12-03T09:56:45.000Z</lastmod>
   </url><url>
-    <loc>https://jose.co.nz/My-VIM-setup</loc>
-    <lastmod>2024-12-03T19:13:20.000Z</lastmod>
-  </url><url>
     <loc>https://jose.co.nz/Paloma/Build-trust-by-communicating-often</loc>
     <lastmod>2023-02-09T16:02:25.000Z</lastmod>
   </url><url>
@@ -71,7 +68,7 @@
     <loc>https://jose.co.nz/SelfHosted/My-NAS-setup-using-UNRAID</loc>
     <lastmod>2024-12-02T23:20:18.000Z</lastmod>
   </url><url>
-    <loc>https://jose.co.nz/Setup-selfhosted-git-using-gitea</loc>
+    <loc>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</loc>
     <lastmod>2024-12-09T11:58:00.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/A-bad-abstraction-is-worse-than-no-abstraction</loc>
@@ -115,6 +112,9 @@
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/Make-it-work,-then-make-it-better</loc>
     <lastmod>2024-11-25T21:20:27.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/My-VIM-setup</loc>
+    <lastmod>2024-12-03T19:13:20.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/Take-the-context-and-constraints-into-consideration</loc>
     <lastmod>2024-12-05T09:14:08.000Z</lastmod>

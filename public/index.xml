@@ -31,8 +31,8 @@
     <pubDate>Mon, 16 Dec 2024 09:03:00 GMT</pubDate>
   </item><item>
     <title>Setup selfhosted git using gitea</title>
-    <link>https://jose.co.nz/Setup-selfhosted-git-using-gitea</link>
-    <guid>https://jose.co.nz/Setup-selfhosted-git-using-gitea</guid>
+    <link>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</link>
+    <guid>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</guid>
     <description>I was looking for my own git repository. I’m writing notes using Obsidian and I was missing versioning for them. I don’t want my personal notes on GitHub or BitBucket, and I already have UNRAID.</description>
     <pubDate>Mon, 09 Dec 2024 11:58:00 GMT</pubDate>
   </item><item>
