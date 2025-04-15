@@ -10,61 +10,61 @@
     <link>https://jose.co.nz/Software-Engineer/Example-of-LLM-PROJECT_CONTEXT</link>
     <guid>https://jose.co.nz/Software-Engineer/Example-of-LLM-PROJECT_CONTEXT</guid>
     <description>Principles When changing this codebase, make sure: it has 90% code coverage for backend code all tests passing meaningful commit messages along the way Rails commands bin/rails ...</description>
-    <pubDate>Sun, 13 Apr 2025 22:01:00 GMT</pubDate>
+    <pubDate>Mon, 14 Apr 2025 10:01:00 GMT</pubDate>
   </item><item>
     <title>Coding with AI aid</title>
     <link>https://jose.co.nz/Software-Engineer/Coding-with-AI-aid</link>
     <guid>https://jose.co.nz/Software-Engineer/Coding-with-AI-aid</guid>
     <description>These are some of the techniques and tools that I’ve been using today to increase my value output. Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
-    <pubDate>Sun, 13 Apr 2025 21:21:00 GMT</pubDate>
+    <pubDate>Mon, 14 Apr 2025 09:21:00 GMT</pubDate>
   </item><item>
     <title>Fail fast to learn fast</title>
     <link>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</link>
     <guid>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</guid>
     <description>Just try it out, make it work, or don’t. Fail as fast as you can, and change directions as necessary. Embrace the failure as a great opportunity to learn.</description>
-    <pubDate>Tue, 07 Jan 2025 19:50:00 GMT</pubDate>
+    <pubDate>Wed, 08 Jan 2025 08:50:00 GMT</pubDate>
   </item><item>
     <title>Mahindra - Storage Box</title>
     <link>https://jose.co.nz/Camping/Mahindra---Storage-Box</link>
     <guid>https://jose.co.nz/Camping/Mahindra---Storage-Box</guid>
     <description>When I bought Mariana, it came with two tools boxes and a dog box. Our first camping trip with her was using this setup. And It was not bad. The tool boxes made it all easy to organise.</description>
-    <pubDate>Sun, 15 Dec 2024 20:03:00 GMT</pubDate>
+    <pubDate>Mon, 16 Dec 2024 09:03:00 GMT</pubDate>
   </item><item>
     <title>Setup selfhosted git using gitea</title>
     <link>https://jose.co.nz/Setup-selfhosted-git-using-gitea</link>
     <guid>https://jose.co.nz/Setup-selfhosted-git-using-gitea</guid>
     <description>I was looking for my own git repository. I’m writing notes using Obsidian and I was missing versioning for them. I don’t want my personal notes on GitHub or BitBucket, and I already have UNRAID.</description>
-    <pubDate>Sun, 08 Dec 2024 22:58:00 GMT</pubDate>
+    <pubDate>Mon, 09 Dec 2024 11:58:00 GMT</pubDate>
   </item><item>
     <title>Mahindra Service Workshop Manuals</title>
     <link>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</link>
     <guid>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</guid>
     <description>Scorpio 2006 Pik Up Service Manual Scorpio - Gateway CRDe .</description>
-    <pubDate>Sat, 07 Dec 2024 02:24:00 GMT</pubDate>
+    <pubDate>Sat, 07 Dec 2024 15:24:00 GMT</pubDate>
   </item><item>
     <title>Mahindra - Replacing Auto to Manual Locking Hubs</title>
     <link>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</link>
     <guid>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</guid>
     <description> TLDR: You can use Nissan Safari/Patrol GQ Manual locking hubs on Mahindra. It’s easy to swap. Why? After Changing Mahindra wheel bearings, brake rotors and brake pads and tie rod, we went off-roading to Red Rocks, and while going up the Devil’s Gate we heard a big bang and the 4WD wouldn’t work anymore.</description>
-    <pubDate>Fri, 06 Dec 2024 01:13:00 GMT</pubDate>
+    <pubDate>Fri, 06 Dec 2024 14:13:00 GMT</pubDate>
   </item><item>
     <title>Fixing snapped CV Axle - Mahindra</title>
     <link>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</link>
     <guid>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</guid>
     <description>After Mahindra - Replacing Auto to Manual Locking Hubs, I realised the problem was a bit worse. The CV axle actually popped out from the diff. NO! Even worse, it actually snapped inside of the diff! Diagnosing I’ve got some tips from Plimmerton Motors.</description>
-    <pubDate>Thu, 05 Dec 2024 23:05:00 GMT</pubDate>
+    <pubDate>Fri, 06 Dec 2024 12:05:00 GMT</pubDate>
   </item><item>
     <title>You write code for others, not for yourself</title>
     <link>https://jose.co.nz/Software-Engineer/You-write-code-for-others,-not-for-yourself</link>
     <guid>https://jose.co.nz/Software-Engineer/You-write-code-for-others,-not-for-yourself</guid>
     <description>You are writing your code for others to read, understand and make sense of it. Even if you are working by yourself in a cave, yourself 6 months for now is not the same as yourself form today.</description>
-    <pubDate>Wed, 04 Dec 2024 23:42:04 GMT</pubDate>
+    <pubDate>Thu, 05 Dec 2024 12:42:04 GMT</pubDate>
   </item><item>
     <title>Take the context and constraints into consideration</title>
     <link>https://jose.co.nz/Software-Engineer/Take-the-context-and-constraints-into-consideration</link>
     <guid>https://jose.co.nz/Software-Engineer/Take-the-context-and-constraints-into-consideration</guid>
     <description>Rules are for guidance, not to take religiously. Take your current context and constraints into consideration when building anything.</description>
-    <pubDate>Wed, 04 Dec 2024 20:14:08 GMT</pubDate>
+    <pubDate>Thu, 05 Dec 2024 09:14:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
