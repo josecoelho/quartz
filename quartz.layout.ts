@@ -33,6 +33,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "josecoelho/quartz",
+        // from data-repo-id
+        repoId: "R_kgDONXfoTg",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDONXfoTs4Ck-Mq",
+      },
+    }),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -50,9 +65,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
+        // from data-repo
         repo: "josecoelho/quartz",
+        // from data-repo-id
         repoId: "R_kgDONXfoTg",
+        // from data-category
         category: "Announcements",
+        // from data-category-id
         categoryId: "DIC_kwDONXfoTs4Ck-Mq",
       },
     }),
