@@ -13,15 +13,15 @@
     <pubDate>Wed, 16 Apr 2025 09:48:00 GMT</pubDate>
   </item><item>
     <title>Example of LLM PROJECT_CONTEXT</title>
-    <link>https://jose.co.nz/Software-Engineer/Example-of-LLM-PROJECT_CONTEXT</link>
-    <guid>https://jose.co.nz/Software-Engineer/Example-of-LLM-PROJECT_CONTEXT</guid>
+    <link>https://jose.co.nz/Software-Engineer/AI/Example-of-LLM-PROJECT_CONTEXT</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Example-of-LLM-PROJECT_CONTEXT</guid>
     <description>Principles When changing this codebase, make sure: it has 90% code coverage for backend code all tests passing meaningful commit messages along the way Rails commands bin/rails ...</description>
     <pubDate>Mon, 14 Apr 2025 10:01:00 GMT</pubDate>
   </item><item>
     <title>Coding with AI aid</title>
-    <link>https://jose.co.nz/Software-Engineer/Coding-with-AI-aid</link>
-    <guid>https://jose.co.nz/Software-Engineer/Coding-with-AI-aid</guid>
-    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
+    <link>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</guid>
+    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI usage warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
     <pubDate>Mon, 14 Apr 2025 09:21:00 GMT</pubDate>
   </item><item>
     <title>Fail fast to learn fast</title>
