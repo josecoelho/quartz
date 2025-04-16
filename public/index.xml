@@ -9,7 +9,7 @@
     <title>Don&#039;t leave dead code behind</title>
     <link>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</link>
     <guid>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</guid>
-    <description>Keep things tidy; if the code is not being used, remove it. Don’t get attached. You have source control to look for it if you need it again. Dead code increases overhead, and understanding something unused will likely take some time.</description>
+    <description>Keep things tidy; if the code is not being used, remove it. Don’t get attached. You have source control to look for it if you happen to need it again. Believe me, you won’t need it.</description>
     <pubDate>Wed, 16 Apr 2025 15:57:00 GMT</pubDate>
   </item><item>
     <title>AI coding warning</title>
@@ -57,7 +57,7 @@
     <title>Setup selfhosted git using gitea</title>
     <link>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</link>
     <guid>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</guid>
-    <description>I was looking for my own git repository. I’m writing notes using Obsidian and I was missing versioning for them. I don’t want my personal notes on GitHub or BitBucket, and I already have UNRAID.</description>
+    <description>I was looking for my own git repository manager. I’m writing notes using Obsidian, and I missed versioning them. I don’t want my personal notes on GitHub or BitBucket, and I already have UNRAID.</description>
     <pubDate>Mon, 09 Dec 2024 11:58:00 GMT</pubDate>
   </item><item>
     <title>Mahindra Service Workshop Manuals</title>
