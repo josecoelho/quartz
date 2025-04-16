@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Don&#039;t leave dead code behind</title>
+    <link>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</link>
+    <guid>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</guid>
+    <description>Keep things tidy; if the code is not being used, remove it. Don’t get attached. You have source control to look for it if you need it again. Dead code increases overhead, and understanding something unused will likely take some time.</description>
+    <pubDate>Wed, 16 Apr 2025 15:57:00 GMT</pubDate>
+  </item><item>
     <title>AI coding warning</title>
     <link>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</guid>
@@ -15,7 +21,7 @@
     <title>All My HDDs Failed on UNRAID</title>
     <link>https://jose.co.nz/SelfHosted/All-My-HDDs-Failed-on-UNRAID</link>
     <guid>https://jose.co.nz/SelfHosted/All-My-HDDs-Failed-on-UNRAID</guid>
-    <description>This post documents the stress of having to replace all my HDDs on UNRAID after they began failing one after the other… all within a matter of days. They were 3.5 years old, all bought together, and used 24/7—so, yeah, they retired in sync.</description>
+    <description>This post documents the stress of having to replace all my HDDs on UNRAID after they began failing one after the other… all within a matter of days. They were 3.5 years old, all bought together, and used 24/7 — so, yeah, they retired in sync.</description>
     <pubDate>Wed, 16 Apr 2025 09:48:00 GMT</pubDate>
   </item><item>
     <title>Example of LLM PROJECT_CONTEXT</title>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</guid>
     <description>Scorpio 2006 Pik Up Service Manual Scorpio - Gateway CRDe .</description>
     <pubDate>Sat, 07 Dec 2024 15:24:00 GMT</pubDate>
-  </item><item>
-    <title>Mahindra - Replacing Auto to Manual Locking Hubs</title>
-    <link>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</link>
-    <guid>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</guid>
-    <description> TLDR: You can use Nissan Safari/Patrol GQ Manual locking hubs on Mahindra. It’s easy to swap. Why? After Changing Mahindra wheel bearings, brake rotors and brake pads and tie rod, we went off-roading to Red Rocks, and while going up the Devil’s Gate we heard a big bang and the 4WD wouldn’t work anymore.</description>
-    <pubDate>Fri, 06 Dec 2024 14:13:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
