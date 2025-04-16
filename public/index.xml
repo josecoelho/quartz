@@ -9,7 +9,7 @@
     <title>AI coding warning</title>
     <link>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</guid>
-    <description>Enjoy the vibe, but remember, you are still responsible for your contributions. Do no lower your standards. AI tools can help you deliver more, but make sure to keep your standards ALWAYS review the bloody code properly, and double check dependencies.</description>
+    <description>Enjoy the vibe, but remember, you are still responsible for your contributions. Do not lower your standards. AI tools can help you deliver more, but make sure to keep your standards ALWAYS review the bloody code properly and double-check dependencies.</description>
     <pubDate>Wed, 16 Apr 2025 10:38:00 GMT</pubDate>
   </item><item>
     <title>All My HDDs Failed on UNRAID</title>
@@ -27,8 +27,14 @@
     <title>Coding with AI aid</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</guid>
-    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI coding warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project on a file in the root of my project called PROJECT_CONTEXT.md.</description>
+    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI coding warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project file at the root of my project called PROJECT_CONTEXT.md.</description>
     <pubDate>Mon, 14 Apr 2025 09:21:00 GMT</pubDate>
+  </item><item>
+    <title>Setup for Claude AI</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Setup-for-Claude-AI</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Setup-for-Claude-AI</guid>
+    <description>I’ve been using Claude Code to make my development faster. It’s expensive and impressive! MCP Requirements Install astral.sh/uv/ for running python MCPs easily Adding mcp to claude Command helper: claude mcp add-json &lt;name-of-mcp&gt; &quot;$(pbpaste)&quot; Example installing mcp fetch Prepare command in your terminal: claude mcp add-json mcp-fetch &quot;$(pbpaste)&quot; Copy internal mcp configuration changing what you need.</description>
+    <pubDate>Thu, 10 Apr 2025 11:45:00 GMT</pubDate>
   </item><item>
     <title>Fail fast to learn fast</title>
     <link>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</link>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Cars/Mahindra---Replacing-Auto-to-Manual-Locking-Hubs</guid>
     <description> TLDR: You can use Nissan Safari/Patrol GQ Manual locking hubs on Mahindra. It’s easy to swap. Why? After Changing Mahindra wheel bearings, brake rotors and brake pads and tie rod, we went off-roading to Red Rocks, and while going up the Devil’s Gate we heard a big bang and the 4WD wouldn’t work anymore.</description>
     <pubDate>Fri, 06 Dec 2024 14:13:00 GMT</pubDate>
-  </item><item>
-    <title>Fixing snapped CV Axle - Mahindra</title>
-    <link>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</link>
-    <guid>https://jose.co.nz/Cars/Fixing-snapped-CV-Axle---Mahindra</guid>
-    <description>After Mahindra - Replacing Auto to Manual Locking Hubs, I realised the problem was a bit worse. The CV axle actually popped out from the diff. NO! Even worse, it actually snapped inside of the diff! Diagnosing I’ve got some tips from Plimmerton Motors.</description>
-    <pubDate>Fri, 06 Dec 2024 12:05:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
