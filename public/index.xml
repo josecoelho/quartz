@@ -6,6 +6,48 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Self review</title>
+    <link>https://jose.co.nz/Software-Engineer/Self-review</link>
+    <guid>https://jose.co.nz/Software-Engineer/Self-review</guid>
+    <description>Own your contributions, self-review your code, read it pretending you are someone else, you will find gaps, fix them before sending to review. Related to Code review pyramid, and Tips for Software Engineers.</description>
+    <pubDate>Mon, 28 Apr 2025 10:14:00 GMT</pubDate>
+  </item><item>
+    <title>Document incidents while they are happening</title>
+    <link>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</link>
+    <guid>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</guid>
+    <description>Shit happens, when they happen, it’s essential to document the steps and decisions made while solving it, so you can Use postmortems to learn from incidents ...</description>
+    <pubDate>Sat, 19 Apr 2025 11:59:00 GMT</pubDate>
+  </item><item>
+    <title>Use postmortems to learn from incidents</title>
+    <link>https://jose.co.nz/Software-Engineer/Use-postmortems-to-learn-from-incidents</link>
+    <guid>https://jose.co.nz/Software-Engineer/Use-postmortems-to-learn-from-incidents</guid>
+    <description>Ok, an incident happened! Production is down. Avoid the cover ass attitude and get moving to fix this. While you do that, Document incidents while they are happening, organise your team and move forward.</description>
+    <pubDate>Sat, 19 Apr 2025 11:55:00 GMT</pubDate>
+  </item><item>
+    <title>Avoid the cover ass attitude</title>
+    <link>https://jose.co.nz/Software-Engineer/Avoid-the-cover-ass-attitude</link>
+    <guid>https://jose.co.nz/Software-Engineer/Avoid-the-cover-ass-attitude</guid>
+    <description>When shit hits the fan, if it’s your fault, own it. If it’s someone else’s fault, own it. Do not focus on finding someone to blame; concentrate on sorting the problem out.</description>
+    <pubDate>Sat, 19 Apr 2025 11:45:00 GMT</pubDate>
+  </item><item>
+    <title>Communicate often</title>
+    <link>https://jose.co.nz/Software-Engineer/Communicate-often</link>
+    <guid>https://jose.co.nz/Software-Engineer/Communicate-often</guid>
+    <description>Work out loud, send updates about your progress, and communicate with your stakeholders. Let them know what is going on every day! My last action of the day is to communicate about my progress.</description>
+    <pubDate>Sat, 19 Apr 2025 11:39:00 GMT</pubDate>
+  </item><item>
+    <title>Write less code</title>
+    <link>https://jose.co.nz/Write-less-code</link>
+    <guid>https://jose.co.nz/Write-less-code</guid>
+    <description>Less is more; every single line of code is something you will have to maintain later. Do not fool yourself, you are liable to maintain any dependency you add to your code.</description>
+    <pubDate>Wed, 16 Apr 2025 18:26:00 GMT</pubDate>
+  </item><item>
+    <title>Choose dependencies wisely</title>
+    <link>https://jose.co.nz/Software-Engineer/Choose-dependencies-wisely</link>
+    <guid>https://jose.co.nz/Software-Engineer/Choose-dependencies-wisely</guid>
+    <description>We got used to installing a new package, using it and shipping it, pretending it’s production-ready. But there’s way more that comes with it. Before adding any dependencies, there are some things you must check: Is it still maintained? If not, what are the alternatives? When was the last time this package was updated? More than a year? How many issues are open? Check the issues, see if anything major is pending (you may save a couple of hours, just here) Are the pull requests being reviewed? Does it have tests? Quickly look around the code, try to make sense of it.</description>
+    <pubDate>Wed, 16 Apr 2025 16:37:00 GMT</pubDate>
+  </item><item>
     <title>Don&#039;t leave dead code behind</title>
     <link>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</link>
     <guid>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</guid>
@@ -23,48 +65,6 @@
     <guid>https://jose.co.nz/SelfHosted/All-My-HDDs-Failed-on-UNRAID</guid>
     <description>This post documents the stress of having to replace all my HDDs on UNRAID after they began failing one after the other… all within a matter of days. They were 3.5 years old, all bought together, and used 24/7 — so, yeah, they retired in sync.</description>
     <pubDate>Wed, 16 Apr 2025 09:48:00 GMT</pubDate>
-  </item><item>
-    <title>Example of LLM PROJECT_CONTEXT</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Example-of-LLM-PROJECT_CONTEXT</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Example-of-LLM-PROJECT_CONTEXT</guid>
-    <description>Principles When changing this codebase, make sure: it has 90% code coverage for backend code all tests passing meaningful commit messages along the way Rails commands bin/rails ...</description>
-    <pubDate>Mon, 14 Apr 2025 10:01:00 GMT</pubDate>
-  </item><item>
-    <title>Coding with AI aid</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Coding-with-AI-aid</guid>
-    <description>These are some of the techniques and tools that I’ve been using today to increase my value output. AI coding warning Tools Code Completion: supermaven IDE: My VIM setup Inline AI coding: Avante AI agent: Claude Code or Aider Setup your project context I’ve been keeping a file with a brief introduction about the project structure and code patterns that I like to maintain in the project file at the root of my project called PROJECT_CONTEXT.md.</description>
-    <pubDate>Mon, 14 Apr 2025 09:21:00 GMT</pubDate>
-  </item><item>
-    <title>Setup for Claude AI</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Setup-for-Claude-AI</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Setup-for-Claude-AI</guid>
-    <description>I’ve been using Claude Code to make my development faster. It’s expensive and impressive! MCP Requirements Install astral.sh/uv/ for running python MCPs easily Adding mcp to claude Command helper: claude mcp add-json &lt;name-of-mcp&gt; &quot;$(pbpaste)&quot; Example installing mcp fetch Prepare command in your terminal: claude mcp add-json mcp-fetch &quot;$(pbpaste)&quot; Copy internal mcp configuration changing what you need.</description>
-    <pubDate>Thu, 10 Apr 2025 11:45:00 GMT</pubDate>
-  </item><item>
-    <title>Fail fast to learn fast</title>
-    <link>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</link>
-    <guid>https://jose.co.nz/Software-Engineer/Fail-fast-to-learn-fast</guid>
-    <description>Just try it out, make it work, or don’t. Fail as fast as you can, and change directions as necessary. Embrace the failure as a great opportunity to learn.</description>
-    <pubDate>Wed, 08 Jan 2025 08:50:00 GMT</pubDate>
-  </item><item>
-    <title>Mahindra - Storage Box</title>
-    <link>https://jose.co.nz/Camping/Mahindra---Storage-Box</link>
-    <guid>https://jose.co.nz/Camping/Mahindra---Storage-Box</guid>
-    <description>When I bought Mariana, it came with two tools boxes and a dog box. Our first camping trip with her was using this setup. And It was not bad. The tool boxes made it all easy to organise.</description>
-    <pubDate>Mon, 16 Dec 2024 09:03:00 GMT</pubDate>
-  </item><item>
-    <title>Setup selfhosted git using gitea</title>
-    <link>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</link>
-    <guid>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</guid>
-    <description>I was looking for my own git repository manager. I’m writing notes using Obsidian, and I missed versioning them. I don’t want my personal notes on GitHub or BitBucket, and I already have UNRAID.</description>
-    <pubDate>Mon, 09 Dec 2024 11:58:00 GMT</pubDate>
-  </item><item>
-    <title>Mahindra Service Workshop Manuals</title>
-    <link>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</link>
-    <guid>https://jose.co.nz/Cars/Mahindra-Service-Workshop-Manuals</guid>
-    <description>Scorpio 2006 Pik Up Service Manual Scorpio - Gateway CRDe .</description>
-    <pubDate>Sat, 07 Dec 2024 15:24:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
