@@ -12,6 +12,12 @@
     <description>Own your contributions, self-review your code, read it pretending you are someone else, you will find gaps, fix them before sending to review. Related to Code review pyramid, and Tips for Software Engineers.</description>
     <pubDate>Mon, 28 Apr 2025 10:14:00 GMT</pubDate>
   </item><item>
+    <title>Own your contributions</title>
+    <link>https://jose.co.nz/Own-your-contributions</link>
+    <guid>https://jose.co.nz/Own-your-contributions</guid>
+    <description>Own your contributions. Remember Self review You write code for others, not for yourself Choose dependencies wisely Avoid reinventing the wheel, someone else already solved it A bad abstraction is worse than no abstraction Your method is telling a story Part of Tips for Software Engineers.</description>
+    <pubDate>Sat, 19 Apr 2025 12:04:00 GMT</pubDate>
+  </item><item>
     <title>Document incidents while they are happening</title>
     <link>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</link>
     <guid>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</guid>
     <description>Enjoy the vibe, but remember, you are still responsible for your contributions. Do not lower your standards. AI tools can help you deliver more, but make sure to keep your standards ALWAYS review the bloody code properly and double-check dependencies.</description>
     <pubDate>Wed, 16 Apr 2025 10:38:00 GMT</pubDate>
-  </item><item>
-    <title>All My HDDs Failed on UNRAID</title>
-    <link>https://jose.co.nz/SelfHosted/All-My-HDDs-Failed-on-UNRAID</link>
-    <guid>https://jose.co.nz/SelfHosted/All-My-HDDs-Failed-on-UNRAID</guid>
-    <description>This post documents the stress of having to replace all my HDDs on UNRAID after they began failing one after the other… all within a matter of days. They were 3.5 years old, all bought together, and used 24/7 — so, yeah, they retired in sync.</description>
-    <pubDate>Wed, 16 Apr 2025 09:48:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
