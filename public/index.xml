@@ -12,10 +12,34 @@
     <description>Own your contributions, self-review your code, read it pretending you are someone else, you will find gaps, fix them before sending to review. Related to Code review pyramid, and Tips for Software Engineers.</description>
     <pubDate>Mon, 28 Apr 2025 10:14:00 GMT</pubDate>
   </item><item>
+    <title>Reduce the feedback cycle</title>
+    <link>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</link>
+    <guid>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</guid>
+    <description>The last one to find an issue, should be the end user. Your goal is to reduce the feedback cycle, the earlier you find an issue, the cheaper is to fix it.</description>
+    <pubDate>Sun, 20 Apr 2025 22:20:00 GMT</pubDate>
+  </item><item>
+    <title>Manually test your contributions</title>
+    <link>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</link>
+    <guid>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</guid>
+    <description>Simply put, what you build should be working. You should Write tests. And you should make sure your end goal is working. So manually test your changes, and make sure they are working.</description>
+    <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
+  </item><item>
+    <title>Write tests</title>
+    <link>https://jose.co.nz/Software-Engineer/Write-tests</link>
+    <guid>https://jose.co.nz/Software-Engineer/Write-tests</guid>
+    <description>If you write tests as you go, you will build on top of a working foundation. Don’t waste time calling a broken function. Tests will allow you to Make it work, then make it better.</description>
+    <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
+  </item><item>
+    <title>Make friends, not just colleagues</title>
+    <link>https://jose.co.nz/Software-Engineer/Make-friends,-not-just-colleagues</link>
+    <guid>https://jose.co.nz/Software-Engineer/Make-friends,-not-just-colleagues</guid>
+    <description>Know the ones you are working with, you deal with humans, not entities. Make an effort to create real connections, know their family, their talents, their faults.</description>
+    <pubDate>Sun, 20 Apr 2025 21:22:00 GMT</pubDate>
+  </item><item>
     <title>Own your contributions</title>
     <link>https://jose.co.nz/Own-your-contributions</link>
     <guid>https://jose.co.nz/Own-your-contributions</guid>
-    <description>Own your contributions. Remember Self review You write code for others, not for yourself Choose dependencies wisely Avoid reinventing the wheel, someone else already solved it A bad abstraction is worse than no abstraction Your method is telling a story Part of Tips for Software Engineers.</description>
+    <description>Own your contributions. Remember You write code for others, not for yourself. By owning it, I mean that you know how it works, how it doesn’t. Don’t leave dead code behind, Reduce the feedback cycle, Manually test your contributions, Write tests, Write less code.</description>
     <pubDate>Sat, 19 Apr 2025 12:04:00 GMT</pubDate>
   </item><item>
     <title>Document incidents while they are happening</title>
@@ -41,30 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/Communicate-often</guid>
     <description>Work out loud, send updates about your progress, and communicate with your stakeholders. Let them know what is going on every day! My last action of the day is to communicate about my progress.</description>
     <pubDate>Sat, 19 Apr 2025 11:39:00 GMT</pubDate>
-  </item><item>
-    <title>Write less code</title>
-    <link>https://jose.co.nz/Write-less-code</link>
-    <guid>https://jose.co.nz/Write-less-code</guid>
-    <description>Less is more; every single line of code is something you will have to maintain later. Do not fool yourself, you are liable to maintain any dependency you add to your code.</description>
-    <pubDate>Wed, 16 Apr 2025 18:26:00 GMT</pubDate>
-  </item><item>
-    <title>Choose dependencies wisely</title>
-    <link>https://jose.co.nz/Software-Engineer/Choose-dependencies-wisely</link>
-    <guid>https://jose.co.nz/Software-Engineer/Choose-dependencies-wisely</guid>
-    <description>We got used to installing a new package, using it and shipping it, pretending it’s production-ready. But there’s way more that comes with it. Before adding any dependencies, there are some things you must check: Is it still maintained? If not, what are the alternatives? When was the last time this package was updated? More than a year? How many issues are open? Check the issues, see if anything major is pending (you may save a couple of hours, just here) Are the pull requests being reviewed? Does it have tests? Quickly look around the code, try to make sense of it.</description>
-    <pubDate>Wed, 16 Apr 2025 16:37:00 GMT</pubDate>
-  </item><item>
-    <title>Don&#039;t leave dead code behind</title>
-    <link>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</link>
-    <guid>https://jose.co.nz/Software-Engineer/Don't-leave-dead-code-behind</guid>
-    <description>Keep things tidy; if the code is not being used, remove it. Don’t get attached. You have source control to look for it if you happen to need it again. Believe me, you won’t need it.</description>
-    <pubDate>Wed, 16 Apr 2025 15:57:00 GMT</pubDate>
-  </item><item>
-    <title>AI coding warning</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</guid>
-    <description>Enjoy the vibe, but remember, you are still responsible for your contributions. Do not lower your standards. AI tools can help you deliver more, but make sure to keep your standards ALWAYS review the bloody code properly and double-check dependencies.</description>
-    <pubDate>Wed, 16 Apr 2025 10:38:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
