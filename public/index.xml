@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Running Obsidian on Supernote</title>
+    <link>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</link>
+    <guid>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</guid>
+    <description>I have a Supernote around and had some fun with it. It’s incredible to write down, and it has an excellent interface. You get addicted to it, but I stopped using it quite a while ago.</description>
+    <pubDate>Tue, 29 Apr 2025 11:17:00 GMT</pubDate>
+  </item><item>
     <title>Self review</title>
     <link>https://jose.co.nz/Software-Engineer/Self-review</link>
     <guid>https://jose.co.nz/Software-Engineer/Self-review</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/Avoid-the-cover-ass-attitude</guid>
     <description>When shit hits the fan, if it’s your fault, own it. If it’s someone else’s fault, own it. Do not focus on finding someone to blame; concentrate on sorting the problem out.</description>
     <pubDate>Sat, 19 Apr 2025 11:45:00 GMT</pubDate>
-  </item><item>
-    <title>Communicate often</title>
-    <link>https://jose.co.nz/Software-Engineer/Communicate-often</link>
-    <guid>https://jose.co.nz/Software-Engineer/Communicate-often</guid>
-    <description>Work out loud, send updates about your progress, and communicate with your stakeholders. Let them know what is going on every day! My last action of the day is to communicate about my progress.</description>
-    <pubDate>Sat, 19 Apr 2025 11:39:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
