@@ -21,7 +21,7 @@
     <title>Reduce the feedback cycle</title>
     <link>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</link>
     <guid>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</guid>
-    <description>The last one to find an issue, should be the end user. Your goal is to reduce the feedback cycle, the earlier you find an issue, the cheaper is to fix it.</description>
+    <description>The last one to find an issue should be the end user. Your goal is to reduce the feedback cycle; the earlier you find an issue, the cheaper it is to fix it.</description>
     <pubDate>Sun, 20 Apr 2025 22:20:00 GMT</pubDate>
   </item><item>
     <title>Manually test your contributions</title>
@@ -33,7 +33,7 @@
     <title>Write tests</title>
     <link>https://jose.co.nz/Software-Engineer/Write-tests</link>
     <guid>https://jose.co.nz/Software-Engineer/Write-tests</guid>
-    <description>If you write tests as you go, you will build on top of a working foundation. Don’t waste time calling a broken function. Tests will allow you to Make it work, then make it better.</description>
+    <description>If you write tests as you go, you will build on top of a working foundation. Don’t waste time debugging broken functions. Tests will allow you to Make it work, then make it better.</description>
     <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
   </item><item>
     <title>Make friends, not just colleagues</title>
@@ -45,7 +45,7 @@
     <title>Own your contributions</title>
     <link>https://jose.co.nz/Own-your-contributions</link>
     <guid>https://jose.co.nz/Own-your-contributions</guid>
-    <description>Own your contributions. Remember You write code for others, not for yourself. By owning it, I mean that you know how it works, how it doesn’t. Don’t leave dead code behind, Reduce the feedback cycle, Manually test your contributions, Write tests, Write less code.</description>
+    <description>Own your contributions. Remember You write code for others, not for yourself. By owning it, I mean that you know how it works, how it doesn’t. Reduce the feedback cycle Manually test your contributions Write tests Write less code Don’t leave dead code behind Build on top of a stable base .</description>
     <pubDate>Sat, 19 Apr 2025 12:04:00 GMT</pubDate>
   </item><item>
     <title>Document incidents while they are happening</title>
