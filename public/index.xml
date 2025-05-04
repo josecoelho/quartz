@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Implementing designs with Figma MCP Server</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Implementing-designs-with-Figma-MCP-Server</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Implementing-designs-with-Figma-MCP-Server</guid>
+    <description>Check Setup MCP Servers on Claude Code if you are using Claude Code. Set up Figma MCP by following their docs Framelink Figma getting started I’m finding this MCP super helpful for implementing Figma designs.</description>
+    <pubDate>Mon, 05 May 2025 10:37:00 GMT</pubDate>
+  </item><item>
     <title>Running Obsidian on Supernote</title>
     <link>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</link>
     <guid>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/Use-postmortems-to-learn-from-incidents</guid>
     <description>Ok, an incident happened! Production is down. Avoid the cover ass attitude and get moving to fix this. While you do that, Document incidents while they are happening, organise your team and move forward.</description>
     <pubDate>Sat, 19 Apr 2025 11:55:00 GMT</pubDate>
-  </item><item>
-    <title>Avoid the cover ass attitude</title>
-    <link>https://jose.co.nz/Software-Engineer/Avoid-the-cover-ass-attitude</link>
-    <guid>https://jose.co.nz/Software-Engineer/Avoid-the-cover-ass-attitude</guid>
-    <description>When shit hits the fan, if it’s your fault, own it. If it’s someone else’s fault, own it. Do not focus on finding someone to blame; concentrate on sorting the problem out.</description>
-    <pubDate>Sat, 19 Apr 2025 11:45:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
