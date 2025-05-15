@@ -80,9 +80,6 @@
     <loc>https://jose.co.nz/SelfHosted/Setup-selfhosted-git-using-gitea</loc>
     <lastmod>2024-12-09T11:58:00.000Z</lastmod>
   </url><url>
-    <loc>https://jose.co.nz/Software-Engineer/A-bad-abstraction-is-worse-than-no-abstraction</loc>
-    <lastmod>2024-12-03T20:42:34.000Z</lastmod>
-  </url><url>
     <loc>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</loc>
     <lastmod>2022-06-10T12:54:55.000Z</lastmod>
   </url><url>
@@ -160,6 +157,9 @@
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/My-VIM-setup</loc>
     <lastmod>2024-12-03T19:13:20.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/Prefer-duplication-over-the-wrong-abstraction</loc>
+    <lastmod>2024-12-03T20:42:34.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</loc>
     <lastmod>2025-04-20T22:20:00.000Z</lastmod>
