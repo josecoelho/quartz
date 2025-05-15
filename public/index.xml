@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>MCP Warning</title>
+    <link>https://jose.co.nz/MCP-Warning</link>
+    <guid>https://jose.co.nz/MCP-Warning</guid>
+    <description> WARNING If you have the option to run in a Docker container, that’s safer. There are heaps of AI-generated servers, and they have full access to your machine and dot files.</description>
+    <pubDate>Thu, 15 May 2025 21:01:00 GMT</pubDate>
+  </item><item>
     <title>Create meaningful connections with your peers</title>
     <link>https://jose.co.nz/Software-Engineer/Create-meaningful-connections-with-your-peers</link>
     <guid>https://jose.co.nz/Software-Engineer/Create-meaningful-connections-with-your-peers</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Own-your-contributions</guid>
     <description>Own your contributions. Remember You write code for others, not for yourself. By owning it, I mean that you know how it works, how it doesn’t. Reduce the feedback cycle Manually test your contributions Write tests Write less code Don’t leave dead code behind Build on top of a stable base .</description>
     <pubDate>Sat, 19 Apr 2025 12:04:00 GMT</pubDate>
-  </item><item>
-    <title>Document incidents while they are happening</title>
-    <link>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</link>
-    <guid>https://jose.co.nz/Software-Engineer/Document-incidents-while-they-are-happening</guid>
-    <description>Shit happens, when they happen, it’s essential to document the steps and decisions made while solving it, so you can Use postmortems to learn from incidents ...</description>
-    <pubDate>Sat, 19 Apr 2025 11:59:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
