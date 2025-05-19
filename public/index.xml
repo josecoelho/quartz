@@ -6,12 +6,6 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Fox Escape - Building a game with my kids using Claude Code</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</guid>
-    <description>I’m starting to introduce code for my girls, they are 7 and 5 years old. One idea to create interest was brainstorming game ideas that they could play together and show their friends.</description>
-    <pubDate>Sat, 17 May 2025 13:34:00 GMT</pubDate>
-  </item><item>
     <title>Improved workflow with Claude</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</guid>
@@ -65,6 +59,12 @@
     <guid>https://jose.co.nz/Software-Engineer/Write-tests</guid>
     <description>If you write tests as you go, you will build on top of a working foundation. Don’t waste time debugging broken functions. Tests will allow you to Make it work, then make it better.</description>
     <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
+  </item><item>
+    <title>Make friends, not just colleagues</title>
+    <link>https://jose.co.nz/Software-Engineer/Make-friends,-not-just-colleagues</link>
+    <guid>https://jose.co.nz/Software-Engineer/Make-friends,-not-just-colleagues</guid>
+    <description>Know the ones you are working with, you deal with humans, not entities. Make an effort to create real connections, know their family, their talents, their faults.</description>
+    <pubDate>Sun, 20 Apr 2025 21:22:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
