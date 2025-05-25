@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Aim to have a suite of tests that you can trust</title>
+    <link>https://jose.co.nz/Software-Engineer/Aim-to-have-a-suite-of-tests-that-you-can-trust</link>
+    <guid>https://jose.co.nz/Software-Engineer/Aim-to-have-a-suite-of-tests-that-you-can-trust</guid>
+    <description>It’s not just about Write tests, but writing tests that you can trust. Test the behaviour, not the implementation. Only test the things that could possibly break.</description>
+    <pubDate>Mon, 26 May 2025 10:12:00 GMT</pubDate>
+  </item><item>
     <title>The Single Responsibility Principle is not about doing only one thing</title>
     <link>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</link>
     <guid>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/Reduce-the-feedback-cycle</guid>
     <description>The last one to find an issue should be the end user. Your goal is to reduce the feedback cycle; the earlier you find an issue, the cheaper it is to fix it.</description>
     <pubDate>Sun, 20 Apr 2025 22:20:00 GMT</pubDate>
-  </item><item>
-    <title>Manually test your contributions</title>
-    <link>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</link>
-    <guid>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</guid>
-    <description>Simply put, what you build should be working. You should Write tests. And you should make sure your end goal is working. So manually test your changes, and make sure they are working.</description>
-    <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
