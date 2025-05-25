@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The Single Responsibility Principle is not about doing only one thing</title>
+    <link>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</link>
+    <guid>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</guid>
+    <description> Single Responsibility Principle is: Gather together the things that change for the same reasons. Separate those things that change for different reasons.” en.wikipedia.org/wiki/Single-responsibility_principle Tips for Software Engineers.</description>
+    <pubDate>Mon, 26 May 2025 09:34:00 GMT</pubDate>
+  </item><item>
     <title>Fox Escape - Building a game with my kids using Claude Code</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</guid>
@@ -58,12 +64,6 @@
     <link>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</link>
     <guid>https://jose.co.nz/Software-Engineer/Manually-test-your-contributions</guid>
     <description>Simply put, what you build should be working. You should Write tests. And you should make sure your end goal is working. So manually test your changes, and make sure they are working.</description>
-    <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
-  </item><item>
-    <title>Write tests</title>
-    <link>https://jose.co.nz/Software-Engineer/Write-tests</link>
-    <guid>https://jose.co.nz/Software-Engineer/Write-tests</guid>
-    <description>If you write tests as you go, you will build on top of a working foundation. Don’t waste time debugging broken functions. Tests will allow you to Make it work, then make it better.</description>
     <pubDate>Sun, 20 Apr 2025 22:14:00 GMT</pubDate>
   </item>
     </channel>
