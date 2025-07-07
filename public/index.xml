@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Multiple Claude instances with Git Worktree</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</guid>
+    <description>I’ve been working on multiple tasks simultaneously using Claude Code and Git worktree. It’s great to be able to move multiple things at once, which reduces the waiting time.</description>
+    <pubDate>Tue, 08 Jul 2025 09:27:00 GMT</pubDate>
+  </item><item>
     <title>Setup Rails project on Codex AI</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Setup-Rails-project-on-Codex-AI</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Setup-Rails-project-on-Codex-AI</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</guid>
     <description>I have a Supernote around and had some fun with it. It’s incredible to write down, and it has an excellent interface. You get addicted to it, but I stopped using it quite a while ago.</description>
     <pubDate>Tue, 29 Apr 2025 11:17:00 GMT</pubDate>
-  </item><item>
-    <title>Self review</title>
-    <link>https://jose.co.nz/Software-Engineer/Self-review</link>
-    <guid>https://jose.co.nz/Software-Engineer/Self-review</guid>
-    <description>Own your contributions, self-review your code, read it pretending you are someone else, you will find gaps, fix them before sending to review. Related to Code review pyramid, and Tips for Software Engineers.</description>
-    <pubDate>Mon, 28 Apr 2025 10:14:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
