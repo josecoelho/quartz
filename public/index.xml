@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Coding Smarter with AI</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Coding-Smarter-with-AI</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Coding-Smarter-with-AI</guid>
+    <description> NOTE This was posted on Paloma Website, it’s the result of an interview conducted by Poppy Trewhella. She came to me with great questions and I think it’s worth sharing here as well.</description>
+    <pubDate>Wed, 13 Aug 2025 10:17:00 GMT</pubDate>
+  </item><item>
     <title>Multiple Claude instances with Git Worktree</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/AI/Implementing-designs-with-Figma-MCP-Server</guid>
     <description>Set up Figma MCP by following their docs Framelink Figma getting started I gave it a try and got some good results from it. Set up the MCP with a token for your Figma, and you can then ask the AI to implement the design.</description>
     <pubDate>Mon, 05 May 2025 10:37:00 GMT</pubDate>
-  </item><item>
-    <title>Running Obsidian on Supernote</title>
-    <link>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</link>
-    <guid>https://jose.co.nz/Productivity/Running-Obsidian-on-Supernote</guid>
-    <description>I have a Supernote around and had some fun with it. It’s incredible to write down, and it has an excellent interface. You get addicted to it, but I stopped using it quite a while ago.</description>
-    <pubDate>Tue, 29 Apr 2025 11:17:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
