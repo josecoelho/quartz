@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Discipline</title>
+    <link>https://jose.co.nz/Zettelkasten/Discipline</link>
+    <guid>https://jose.co.nz/Zettelkasten/Discipline</guid>
+    <description> I wish I had more discipline. I keep breaking down my own promises Discipline isn’t punishment. It’s not about control Then what is it? It’s self-respect at the highest level.</description>
+    <pubDate>Mon, 01 Dec 2025 12:31:00 GMT</pubDate>
+  </item><item>
     <title>Coding Smarter with AI</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Coding-Smarter-with-AI</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Coding-Smarter-with-AI</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/AI/MCP-Warning</guid>
     <description> WARNING If you have the option to run in a Docker container, that’s safer. There are heaps of AI-generated servers, and they have full access to your machine and dot files.</description>
     <pubDate>Thu, 15 May 2025 21:01:00 GMT</pubDate>
-  </item><item>
-    <title>Create meaningful connections with your peers</title>
-    <link>https://jose.co.nz/Software-Engineer/Create-meaningful-connections-with-your-peers</link>
-    <guid>https://jose.co.nz/Software-Engineer/Create-meaningful-connections-with-your-peers</guid>
-    <description>It’s easy to work with someone for months and still not really know them. You chat in meetings, reply to threads, and react to a meme or two. But it stays surface-level.</description>
-    <pubDate>Wed, 14 May 2025 14:05:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
