@@ -183,10 +183,10 @@ pre:hover > .expand-button {
 <span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> turbo_frame_tag frame_id_from_path(consolidation_consignment_item_path(consolidation, consignment, item)) </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">%></span></span>
 <span data-line> </span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"># In links pointing to a frame</span></span>
-<span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&lt;%= link_to &quot;Edit&quot;, </span></span>
+<span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&lt;%= link_to &quot;Edit&quot;,</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">            edit_consolidation_consignment_item_path(consolidation, consignment, item),</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">            data: { turbo_frame: frame_id_from_path(consolidation_consignment_item_path(consolidation, consignment, item)) } %></span></span>
-<span data-line><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">            </span></span>
+<span data-line> </span>
 <span data-line><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># For delete buttons and cancel links, target the parent collection frame (avoids &quot;Content missing&quot; errors)</span></span>
 <span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> button_to delete_path(resource),</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">            method:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> :delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">,</span></span>
@@ -212,7 +212,7 @@ pre:hover > .expand-button {
 <p>Use the <code>src</code> attribute with turbo frames to lazy load content directly from controllers,
 avoiding the need for custom partials and explicit renders:</p>
 <figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="ruby" data-theme="github-light github-dark"><code data-language="ruby" data-theme="github-light github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># Lazy load the entire items list from the items controller</span></span>
-<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> turbo_frame_tag frame_id_from_path(consolidation_consignment_items_path(consolidation, consignment)), </span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> turbo_frame_tag frame_id_from_path(consolidation_consignment_items_path(consolidation, consignment)),</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">    src:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> consolidation_consignment_items_path(consolidation, consignment),</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">    loading:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> &quot;lazy&quot;</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;"> do</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> %></span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &lt;div class=&quot;bg-white rounded-md shadow p-4 text-center text-gray-500 text-sm&quot;></span></span>
@@ -260,9 +260,9 @@ avoiding the need for custom partials and explicit renders:</p>
 <span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">end</span></span>
 <span data-line> </span>
 <span data-line><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># Form submissions must target parent frame to maintain frame hierarchy</span></span>
-<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> simple_form_for @item, </span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">&lt;%=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> simple_form_for @item,</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">  url:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> parent_items_path(@parent),</span></span>
-<span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">  data:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> { </span></span>
+<span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">  data:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> {</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">    turbo:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">,</span></span>
 <span data-line><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">    turbo_frame:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> frame_id_from_path(parent_items_path(@parent)) </span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># Point to parent frame</span></span>
 <span data-line><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">do</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> |f| </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">%></span></span>
@@ -274,7 +274,7 @@ avoiding the need for custom partials and explicit renders:</p>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">  # ...</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">  respond_to do |format|</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    format.html { redirect_to parent_path }</span></span>
-<span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    format.turbo_stream { </span></span>
+<span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    format.turbo_stream {</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">      render turbo_stream: turbo_stream.replace(...)</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    }</span></span>
 <span data-line><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">  end</span></span>
