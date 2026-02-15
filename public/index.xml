@@ -6,6 +6,12 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Close the loop - let agents verify their work</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Close-the-loop---let-agents-verify-their-work</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Close-the-loop---let-agents-verify-their-work</guid>
+    <description>One of the biggest wins when coding with AI agents is closing the loop — giving them the ability to verify their own work. If the agent can’t confirm that a change works, you’re back to being the bottleneck.</description>
+    <pubDate>Mon, 16 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
     <title>Discipline</title>
     <link>https://jose.co.nz/Zettelkasten/Discipline</link>
     <guid>https://jose.co.nz/Zettelkasten/Discipline</guid>
@@ -59,12 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</guid>
     <description> AI-Generated Workflow for a Project I keep updating it; that’s the current state as I write this. It’s too verbose now, but I kinda like this version.</description>
     <pubDate>Thu, 15 May 2025 21:36:00 GMT</pubDate>
-  </item><item>
-    <title>MCP Warning</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/MCP-Warning</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/MCP-Warning</guid>
-    <description> WARNING If you have the option to run in a Docker container, that’s safer. There are heaps of AI-generated servers, and they have full access to your machine and dot files.</description>
-    <pubDate>Thu, 15 May 2025 21:01:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
