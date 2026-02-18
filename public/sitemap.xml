@@ -80,8 +80,14 @@
     <loc>https://jose.co.nz/Software-Engineer/A-bad-decision-is-better-than-no-decision</loc>
     <lastmod>2022-06-10T12:54:55.000Z</lastmod>
   </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/AI-Practices</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/AI-coding-warning</loc>
     <lastmod>2025-04-16T10:38:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/Claude-Code</loc>
+    <lastmod>2026-02-19T10:30:00.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/Close-the-loop---let-agents-verify-their-work</loc>
     <lastmod>2026-02-16T16:00:00.000Z</lastmod>
@@ -104,17 +110,32 @@
     <loc>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</loc>
     <lastmod>2025-05-15T21:36:00.000Z</lastmod>
   </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/Know-your-stakes</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/MCP-Warning</loc>
     <lastmod>2025-05-15T21:01:00.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</loc>
     <lastmod>2025-07-08T09:27:00.000Z</lastmod>
   </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/Review-what-AI-gives-you</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/Review-your-AI-Skills</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/Setup-MCP-Servers-on-Claude-Code</loc>
     <lastmod>2025-04-10T11:45:00.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/AI/Setup-Rails-project-on-Codex-AI</loc>
     <lastmod>2025-05-28T11:38:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/The-danger-of-shipping-AI-code-without-review</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jose.co.nz/Software-Engineer/AI/Vet-your-AI-tools</loc>
+    <lastmod>2026-02-19T10:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jose.co.nz/Software-Engineer/Aim-to-have-a-suite-of-tests-that-you-can-trust</loc>
     <lastmod>2025-05-26T10:12:00.000Z</lastmod>

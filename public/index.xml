@@ -6,6 +6,48 @@
       <description>Last 10 notes on Dev Outside</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Claude Code</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Claude-Code</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Claude-Code</guid>
+    <description>Claude Code My current setup for AI-assisted development, using Claude Code on the Max Plan. With this I am able to achieve 100% of my code being generated, I seldom open my vim to write code.</description>
+    <pubDate>Thu, 19 Feb 2026 10:30:00 GMT</pubDate>
+  </item><item>
+    <title>AI Practices</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/AI-Practices</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/AI-Practices</guid>
+    <description>AI Practices This is my take on it. AI tooling evolves fast — what’s risky today may be standard practice tomorrow. AI coding warning Golden Rules You are responsible for your contributions → Own your contributions Review what AI gives you → Review what AI gives you Vet your tools → Vet your AI tools Know your stakes → Know your stakes Close the loop → Close the loop - let agents verify their work Workflow Coding with AI aid Coding Smarter with AI Close the loop - let agents verify their work Multiple Claude instances with Git Worktree Warnings AI coding warning Review what AI gives you Review your AI Skills MCP Warning Vet your AI tools Know your stakes The danger of shipping AI code without review Setup Setup MCP Servers on Claude Code Implementing designs with Figma MCP Server Setup Rails project on Codex AI Fun Fox Escape - Building a game with my kids using Claude Code .</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
+    <title>Know your stakes</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Know-your-stakes</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Know-your-stakes</guid>
+    <description>Different contexts require different levels of rigour. Not everything needs the same security mindset — but you always need to know which context you’re in.</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
+    <title>Review what AI gives you</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Review-what-AI-gives-you</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Review-what-AI-gives-you</guid>
+    <description> Don&#039;t accept AI output without understanding it It’s easy to let the agent do its thing and move on. You get a working feature, the tests pass, the diff looks reasonable.</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
+    <title>Review your AI Skills</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Review-your-AI-Skills</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Review-your-AI-Skills</guid>
+    <description> Skills control what your agent does on your behalf Skills are markdown files that get injected into your agent’s prompt. They tell the agent how to behave, what commands to run, what patterns to follow.</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
+    <title>The danger of shipping AI code without review</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/The-danger-of-shipping-AI-code-without-review</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/The-danger-of-shipping-AI-code-without-review</guid>
+    <description>The danger of shipping AI code without review OpenClaw showed the world you can build an entire project by letting an AI agent write and ship code without reviewing it ...</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
+    <title>Vet your AI tools</title>
+    <link>https://jose.co.nz/Software-Engineer/AI/Vet-your-AI-tools</link>
+    <guid>https://jose.co.nz/Software-Engineer/AI/Vet-your-AI-tools</guid>
+    <description>...</description>
+    <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
+  </item><item>
     <title>Close the loop - let agents verify their work</title>
     <link>https://jose.co.nz/Software-Engineer/AI/Close-the-loop---let-agents-verify-their-work</link>
     <guid>https://jose.co.nz/Software-Engineer/AI/Close-the-loop---let-agents-verify-their-work</guid>
@@ -23,48 +65,6 @@
     <guid>https://jose.co.nz/Software-Engineer/AI/Coding-Smarter-with-AI</guid>
     <description> NOTE This was posted on Paloma Website, it’s the result of an interview conducted by Poppy Trewhella. She came to me with great questions and I think it’s worth sharing here as well.</description>
     <pubDate>Wed, 13 Aug 2025 10:17:00 GMT</pubDate>
-  </item><item>
-    <title>Multiple Claude instances with Git Worktree</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Multiple-Claude-instances-with-Git-Worktree</guid>
-    <description>I’ve been working on multiple tasks simultaneously using Claude Code and Git worktree. It’s great to be able to move multiple things at once, which reduces the waiting time.</description>
-    <pubDate>Tue, 08 Jul 2025 09:27:00 GMT</pubDate>
-  </item><item>
-    <title>Please, avoid the full rewrite trap</title>
-    <link>https://jose.co.nz/Software-Engineer/Please,-avoid-the-full-rewrite-trap</link>
-    <guid>https://jose.co.nz/Software-Engineer/Please,-avoid-the-full-rewrite-trap</guid>
-    <description>...</description>
-    <pubDate>Thu, 03 Jul 2025 16:09:00 GMT</pubDate>
-  </item><item>
-    <title>Setup Rails project on Codex AI</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Setup-Rails-project-on-Codex-AI</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Setup-Rails-project-on-Codex-AI</guid>
-    <description>I’d like to try the new Codex AI and see if it’s suitable for our use cases. This is an example of how to set it up for a Rails project. Requirements Open AI Pro account Access to your Github Repositories on Data Controls - I suggest limit access to only the repositories you are working with Create a new environment Create a new environment Select the organisation and repository you want to set up Add any required environment variables for your dev environment; Exporting variables from the setup script does not work You must add environment variables using the UI, the script runs as a bash script and the variables are only available when it’s executing.</description>
-    <pubDate>Wed, 28 May 2025 11:38:00 GMT</pubDate>
-  </item><item>
-    <title>Aim to have a suite of tests that you can trust</title>
-    <link>https://jose.co.nz/Software-Engineer/Aim-to-have-a-suite-of-tests-that-you-can-trust</link>
-    <guid>https://jose.co.nz/Software-Engineer/Aim-to-have-a-suite-of-tests-that-you-can-trust</guid>
-    <description>It’s not just about Write tests, but writing tests that you can trust. Test the behaviour, not the implementation. Only test the things that could possibly break.</description>
-    <pubDate>Mon, 26 May 2025 10:12:00 GMT</pubDate>
-  </item><item>
-    <title>The Single Responsibility Principle is not about doing only one thing</title>
-    <link>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</link>
-    <guid>https://jose.co.nz/Software-Engineer/The-Single-Responsibility-Principle-is-not-about-doing-only-one-thing</guid>
-    <description> Single Responsibility Principle is: Gather together the things that change for the same reasons. Separate those things that change for different reasons.” en.wikipedia.org/wiki/Single-responsibility_principle Tips for Software Engineers.</description>
-    <pubDate>Mon, 26 May 2025 09:34:00 GMT</pubDate>
-  </item><item>
-    <title>Fox Escape - Building a game with my kids using Claude Code</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Fox-Escape---Building-a-game-with-my-kids-using-Claude-Code</guid>
-    <description>I’m starting to introduce code for my girls, they are 7 and 5 years old. One idea to create interest was brainstorming game ideas that they could play together and show their friends.</description>
-    <pubDate>Sat, 17 May 2025 13:34:00 GMT</pubDate>
-  </item><item>
-    <title>Improved workflow with Claude</title>
-    <link>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</link>
-    <guid>https://jose.co.nz/Software-Engineer/AI/Improved-workflow-with-Claude</guid>
-    <description> AI-Generated Workflow for a Project I keep updating it; that’s the current state as I write this. It’s too verbose now, but I kinda like this version.</description>
-    <pubDate>Thu, 15 May 2025 21:36:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
